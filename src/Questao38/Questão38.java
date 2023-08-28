@@ -1,4 +1,4 @@
-/*38
+package Questao38;/*38
 Um programador foi instruído pelo seu gerente a implementar, em Java, uma classe MemoriaCalculoVenda que implementasse
 a interface MemoriaCalculo, já criada pela organização e que representa as exigências da organização para
 classes que implementam memórias de cálculo.
